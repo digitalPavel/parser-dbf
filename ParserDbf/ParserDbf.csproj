@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<Version>1.0.0</Version>
+		<Company>Books International</Company>
+		<Title>Parser Dbf</Title>
+		<Description> This client library enables to convert a DBF file to a JSON string and/or DataTable. Just put your DBF file path in the parameter of the Table() and/or Json() method.</Description>
+		<Authors>Books International</Authors>
+	</PropertyGroup>
+
+</Project>
